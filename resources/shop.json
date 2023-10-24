@@ -1,0 +1,23 @@
+[
+    {
+        "name": ":two: X2 Coin Multiplier",
+        "description": "Multiplies by 2 the number of coins gained.",
+        "price": 10000,
+        "uses": 1
+    },
+
+    {
+        "name": ":cookie: Fortune Cookie",
+        "description": "Opens a fortune cookie.",
+        "price": 10,
+        "uses": 0
+    },
+
+    {
+        "name": ":question: Mystery",
+        "description": "What does that do?",
+        "price": 1000,
+        "uses": 1
+    }
+
+]

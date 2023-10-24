@@ -1,0 +1,11 @@
+discord.py
+async-timeout
+Pillow==6.2.1
+asyncpg
+fpdf
+qrcode
+regex
+aiohttp
+webcolors
+psutil
+pyparsing
